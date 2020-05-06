@@ -1,6 +1,6 @@
 # ape 
 
-############################################ 1. PROJECT GRADING SPECIFICATIONS #########################################################
+# 1. PROJECT GRADING SPECIFICATIONS 
 
 	* INTRODUCTION 
 Dimensions: 3D
@@ -42,10 +42,10 @@ Innovation(10%): Own Models/Textures designed in Blender. *OpenAI self-play(Mult
 
 
 
-######################################################### 2. GAME CONTROLS AND SPECIFICATIONS ######################################
+# 2. GAME CONTROLS AND SPECIFICATIONS
 Ojective: 
 
 
-######################################################## 3. ACTOR CHARACTERISTICS ###################################################
+# 3. ACTOR CHARACTERISTICS
 
 
