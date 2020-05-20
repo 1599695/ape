@@ -1,0 +1,323 @@
+# Blender MTL File: 'None'
+# Material Count: 31
+
+newmtl Material.524
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.057800 0.057800 0.057800
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.525
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.007437 0.007437 0.007437
+Ks 0.125561 0.125561 0.125561
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.526
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.035562 0.035562 0.035562
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.527
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.218310 0.218310 0.218310
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.528
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.175000 0.175000 0.175000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl Material.529
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.175000 0.175000 0.175000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl Material.530
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.395000 0.395000 0.395000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl Material.531
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.395000 0.395000 0.395000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl Material.532
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.023723 0.023723 0.023723
+Ks 0.033630 0.033630 0.033630
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\walla\Desktop\letreiro.png
+map_Ns C:\\Users\\walla\\Desktop\\text.png
+map_Disp C:\\Users\\walla\\Desktop\\text.png
+map_Ks C:\\Users\\walla\\Desktop\\text.png
+
+newmtl Material.533
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.026536 0.026536 0.026536
+Ks 0.015700 0.015700 0.015700
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\walla\Desktop\letreiro.png
+map_Ns C:\\Users\\walla\\Desktop\\text.png
+map_Disp C:\\Users\\walla\\Desktop\\text.png
+map_Ks C:\\Users\\walla\\Desktop\\text.png
+
+newmtl Material.534
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.012076 0.012076 0.012076
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl Material.535
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.352941 0.352941
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl Material.536
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.699346 0.699346 0.699346
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl Material.537
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.352941 0.352941
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl capsula.001
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.213600 0.213600 0.213600
+Ks 0.459641 0.459641 0.459641
+Ni 1.000000
+d 1.000000
+illum 2
+map_refl F:\\texturas\\dabfvc.jpg
+
+newmtl cubinho.001
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.174534 0.174534 0.174534
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl descarga.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.037567 0.037567 0.037567
+Ks 0.163677 0.163677 0.163677
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl detalhe_punhal.001
+Ns 221.568627
+Ka 0.000000 0.000000 0.000000
+Kd 0.030371 0.030371 0.030371
+Ks 0.333000 0.333000 0.333000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\walla\Desktop\punhal tetx.png
+map_Ns C:\\Users\\walla\\Desktop\\text.png
+map_Disp C:\\Users\\walla\\Desktop\\text.png
+map_Ks C:\\Users\\walla\\Desktop\\text.png
+
+newmtl fundo.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl fundo.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl letreiro.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\Users\walla\Desktop\letreiro.png
+map_Ns C:\\Users\\walla\\Desktop\\letreiro.png
+map_d C:\\Users\\walla\\Desktop\\letreiro.png
+map_Ks C:\\Users\\walla\\Desktop\\letreiro.png
+map_Disp C:\\Users\\walla\\Desktop\\letreiro.png
+
+newmtl malha.002
+Ns 221.568627
+Ka 0.000000 0.000000 0.000000
+Kd 0.026883 0.026883 0.026883
+Ks 0.147982 0.147982 0.147982
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\walla\Desktop\punhal tetx.png
+map_Ns C:\\Users\\walla\\Desktop\\text.png
+map_Disp C:\\Users\\walla\\Desktop\\text.png
+map_Ks C:\\Users\\walla\\Desktop\\text.png
+
+newmtl malha.002_NONE
+Ns 221.568627
+Ka 0.000000 0.000000 0.000000
+Kd 0.026883 0.026883 0.026883
+Ks 0.147982 0.147982 0.147982
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ns C:\\Users\\walla\\Desktop\\text.png
+map_Disp C:\\Users\\walla\\Desktop\\text.png
+map_Ks C:\\Users\\walla\\Desktop\\text.png
+map_Kd C:\\Users\\walla\\Desktop\\text.png
+
+newmtl malha.003
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.156951 0.156951 0.156951
+Ks 0.650224 0.650224 0.650224
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\walla\Desktop\punhal tetx.png
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl malha.003_NONE
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.156951 0.156951 0.156951
+Ks 0.650224 0.650224 0.650224
+Ni 1.000000
+d 1.000000
+illum 2
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl metal.001
+Ns 998.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.010488 0.010488 0.010488
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl mira_frontal.001
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.421525 0.421525 0.421525
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl mira_traseira.001
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.269058 0.269058 0.269058
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_refl F:\\texturas\\3erfdc.jpg
+
+newmtl plastico.001
+Ns 782.352941
+Ka 0.000000 0.000000 0.000000
+Kd 0.006870 0.006870 0.006870
+Ks 0.147059 0.147059 0.147059
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl projetil.001
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.237386 0.237386 0.237386
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_refl F:\\texturas\\dabfvc.jpg
+
+newmtl text.026
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
